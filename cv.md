@@ -5,7 +5,7 @@
 
 ### Contacts:
 * **Email**: kostyab.job@gmail.com
-* **Github**: kostyabjob
+* **Github**: [kostyabjob](https://github.com/kostyabjob)
 * **Discord**: Константин Булах#2294
 
 ### About
